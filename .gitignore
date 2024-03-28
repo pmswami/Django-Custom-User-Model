@@ -1,2 +1,5 @@
 info.txt
 /venv/*
+/customusermodel/base/__py*
+/customusermodel/base/migrations*
+/customusermodel/customusermodel/__py*
